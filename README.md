@@ -325,3 +325,54 @@ result in strong results. Further paring down of
 features could make the model more agile, allowing
 it to be deployed quickly and still providing
 high accuracy.
+## References
+Schouten, K., Frasincar, F., & Dekker, R. 2016,
+June An information gain-driven feature study
+for aspect-based sentiment analysis, International
+Conference on Applications of Natural
+Language to Information Systems (pp. 48-59).
+Springer, Cham.<br><br>
+Agrawal, S., & Awekar, A. 2018, March Deep learning
+for detecting cyberbullying across multiple
+social media platforms, European Conference
+on Information Retrieval (pp. 141-153). Springer,
+Cham.<br><br>
+Nababan, A. A., & Sitompul, O. S. 2018, April Attribute
+Weighting Based K-Nearest Neighbor Using
+Gain Ratio., Journal of Physics: Conference
+Series (Vol. 1007, No. 1, p. 012007). IOP Publishing.<br><br>
+Taneja, S., Gupta, C., Goyal, K., & Gureja, D. 2014,
+February An enhanced k-nearest neighbor algorithm
+using information gain and clustering,
+2014 Fourth International Conference on Advanced
+Computing & Communication Technologies
+(pp. 325-329). IEEE.<br><br>
+Shah, D., Isah, H., & Zulkernine, F. 2018, December
+Predicting the effects of news sentiments on the
+stock market., In 2018 IEEE International Conference
+on Big Data (Big Data) (pp. 4705-4708).
+IEEE.<br><br>
+Liu, C., Guo, C., Dakota, D., Rajagopalan, S., Li, W.,
+K¨ubler, S., & Yu, N. 2014 “My Curiosity was
+Satisfied, but not in a Good Way”: Predicting
+User Ratings for Online Recipes., (2014).<br><br>
+Tripathy, A., Agrawal, A., & Rath, S. K. 2015 Classication
+of Sentimental Reviews Using Machine
+Learning Techniques., Procedia Computer Science,
+57, 821-829.<br><br>
+Wilson, T., Wiebe, J., & Hoffmann, P. 2009. Recognizing
+contextual polarity: An exploration of features
+for phrase-level sentiment analysis., Computational
+linguistics, 35(3), 399-433.<br><br>
+Feldman, R. 2013 Techniques and applications for
+sentiment analysis., Communications of the
+ACM, 56(4), 82-89.<br><br>
+A. Kraskov, H. Stogbauer and P. Grassberger 2004
+“Estimating mutual information”, Phys. Rev. E
+69, 2004.<br><br>
+B. C. Ross 2014 “Mutual Information between Discrete
+and Continuous Data Sets”. , PLoS ONE
+9(2), 2014<br><br>
+L. F. Kozachenko, N. N. Leonenko 1987 “Sample Estimate
+of the Entropy of a Random Vector:, Probl.
+, Peredachi Inf., 23:2 (1987), 9-16
