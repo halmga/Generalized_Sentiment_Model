@@ -1,6 +1,6 @@
 # Generalized_Sentiment_Model
 ## Summary
-Below is the Proof of Concept that was submitted with the code as a project for a Natural Language Processing course.
+Below is the Proof of Concept that was submitted with the code as a project for a Natural Language Processing course (code still being uploaded).
 
 ## Abstract
 Sentiment analysis has been at the forefront of research and business decisions
